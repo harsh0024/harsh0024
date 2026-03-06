@@ -6,10 +6,11 @@
 
 ## About Me
 
-- 🔭 Currently learning **Advanced DevOps, Kubernetes, Istio, Argo CD & GitOps**
-- ☁️ Working with **Multi-Cloud Infrastructure (AWS & Azure)**
+- 🔭 I’m currently working on **DevOps automation projects, CI/CD pipelines and containerized applications using Docker & Kubernetes**
+- ☁️ I,m Familiar with **Multi-Cloud Infrastructure (AWS & Azure)**
 - 🤝 Looking to collaborate on **Cloud-Native, Terraform & CI/CD projects**
-- 💬 Ask me about **Kubernetes, CI/CD, Cloud, Monitoring & DevSecOps**
+- 💬 Ask me about **Kubernetes, DevOps, Backend development, and Automation CI/CD, Cloud, Monitoring & DevSecOps**
+- 🌱 I’m currently learning **Advanced DevOps, Istio, Argo CD & GitOps**
 - 👨‍💻 All my work:  
   **GitHub:** https://github.com/harsh0024 
   **LinkedIn:** https://www.linkedin.com/in/harsh-chachane-423b87271/
@@ -82,7 +83,45 @@
 <!-- Logging -->
 <img src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logstash.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.co
+##
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" height="40"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
+
 
 
 
