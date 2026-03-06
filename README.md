@@ -53,81 +53,57 @@
 
 ## 🧰 Tech Stack & Tools
 
-### 💻 Programming Languages
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</p>
 
-### 📱 App Development
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</p>
-
-### 🌐 Backend & Frameworks
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="40" height="40"/>
-</p>
-
-### ☁️ Cloud Platforms
-<p align="center">
+<!-- DevOps & Cloud First -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
-</p>
-
-### 🐳 Containers & Orchestration
-<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="40" height="40"/>
-</p>
-
-### ⚙️ Infrastructure as Code & Automation
-<p align="center">
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>
-</p>
 
-### 🔄 CI/CD & Version Control
-<p align="center">
+<!-- CI/CD -->
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-</p>
 
-### 📊 Monitoring & Logging
-<p align="center">
+<!-- Monitoring -->
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" height="40"/>
+
+<!-- Logging -->
 <img src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logstash.svg" width="40" height="40"/>
-</p>
 
-### 🗄️ Databases & Data Tools
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<!-- Other Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40"/>
-</p>
-
-### 🧪 Testing & Quality
-<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="40" height="40"/>
-</p>
 
-### 🎨 Design Tools
-<p align="center">
+<!-- Version Control -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+
+<!-- Development -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+
+<!-- Design -->
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/>
-</p>
 
+</p>
