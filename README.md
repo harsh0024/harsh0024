@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Chachane </h1>
-<h3 align="center"> Passionate DevOps Engineer | Cloud | Kubernetes | DevSecOps</h3>
+<h3 align="center"> Passionate DevOps Engineer | AWS | Cloud | Kubernetes | DevSecOps</h3>
 
 
 ---
